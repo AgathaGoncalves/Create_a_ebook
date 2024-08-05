@@ -2,7 +2,9 @@
 
 Prompts e I.A's Usadas no projeto
 
-<h1>📕 Clique aqui para ler 📖💾</h1>
+<h1>Leia o E-book</h1>
+
+[📕 Clique aqui para ler📖💾](https://github.com/AgathaGoncalves/Create_a_ebook/blob/main/output/Nerdoo%20com%20Pyhton.pdf)
 
 
 <h2> ChatGPT </h2>
